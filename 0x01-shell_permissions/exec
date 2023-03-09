@@ -1,0 +1,6 @@
+#!/bin/bash
+mv README.md README.md1
+mv README.md1 ../
+chmod -R u+x .
+mv ../README.md1 .
+mv README.md1 README.md
