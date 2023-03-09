@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+rwx go+rx $(find ./ -type d)
+chmod -R ugo+X
