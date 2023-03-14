@@ -1,0 +1,6 @@
+#!/bin/bash
+for file in *; do
+	if [ "$file" != README.md ]; then
+		chmod u+x "$file"
+	fi
+done	
