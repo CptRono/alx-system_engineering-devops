@@ -1,1 +1,1 @@
-This is a readme file for shell variables expansion project
+this is an alx project on shell variables expansion
